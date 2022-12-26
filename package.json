@@ -1,0 +1,16 @@
+{
+  "name": "04-bases-de-node",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar con archivo de texto",
+  "main": "33-package.json-init-install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node 33-package.json-init-install --base=3"
+  },
+  "author": "Leonardo Delgado",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  }
+}
